@@ -56,9 +56,8 @@ flutter run
 - Generate Secret Santa Assignments
 
 ![Home Screen]
-![localhost_61449_(Samsung Galaxy S20 Ultra)](https://github.com/user-attachments/assets/ec481944-c725-40e4-a491-d73d6729a6bd)
+<img src="https://github.com/user-attachments/assets/ec481944-c725-40e4-a491-d73d6729a6bd" width="400">
 
-(https://via.placeholder.com/600x300)  
 
 ### **📜 Assignment Screen**
 - Displays assigned Secret Santa pairs
@@ -66,7 +65,7 @@ flutter run
 
 ![Assignment Screen]
 
-![localhost_61449_(Samsung Galaxy S20 Ultra) (1)](https://github.com/user-attachments/assets/2b691164-7ac4-4974-b3a8-59d10b52f20d)
+<img src="https://github.com/user-attachments/assets/2b691164-7ac4-4974-b3a8-59d10b52f20d" width="400">
 
 
 ## 🔧 Features
